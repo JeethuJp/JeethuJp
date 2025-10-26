@@ -20,12 +20,9 @@
 **Web/SDLC:**  
 :lock: HTML, CSS, JS, front-end foundations, secure coding, SDLC practices.
 
-**Cloud/DevSecOps:**  
-:cloud: Azure security (NSG audits, RBAC/MFA checks, storage exposure), Docker workflows.
-
 **Systems/IT:**  
 :computer: Operating systems, computer hardware, IT hardware support.
 
 ## Let’s Connect :handshake:
 - [LinkedIn](https://www.linkedin.com/in/jithesh-poojary-01347835b/)
-- 📧 Email: jitheshp777@gmail.com
+- 📧 Email: jitheshpoojary336@gmail.com
