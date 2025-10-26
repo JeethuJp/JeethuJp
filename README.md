@@ -1,11 +1,10 @@
 # Hi, I’m Jithesh Poojary 👋
 
-:shield: **Cybersecurity student** with a diploma in CSE, focused on penetration testing, network security, and secure SDLC. Passionate about finding vulnerabilities and building practical mitigations across web and cloud.
+:shield: **Cybersecurity student** with a diploma in CSE, focused on penetration testing, network security and secure SDLC. Passionate about finding vulnerabilities and building practical mitigations across web and network.
 
 ## About Me :sparkles:
-- Exploring pentesting, bug bounty, and real-world vulnerability mitigation in web and cloud environments.
-- Strong foundations in programming, networking, network administration, and systems optimization.
-- :rocket: **Goal:** Become a professional penetration tester solving complex security challenges.
+- Exploring pentesting, bug bounty, and real-world vulnerability mitigation in web and network.
+- Strong foundations in programming, networking, network administration and systems optimization.
 
 ## Skills :toolbox:
 **Security:**  
